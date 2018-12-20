@@ -1,10 +1,10 @@
 {
-  "name": "bitandbang",
+  "name": "gxcsoccer",
   "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for zōng yǔ (@gxcsoccer)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "gxcsoccer": "./bin/card.js"
   },
   "repository": {
     "type": "git",
